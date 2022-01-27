@@ -116,7 +116,7 @@ function init() {
 	  // 2. Create the layout for the bubble chart.
 	  var bubbleLayout = {
 		title: "Bacteria Cultures Per Sample",
-		margin: { t: 0 },
+		margin: { t: 30 },
 		hovermode: "closest",
 		xaxis: { title: "OTU ID" },
 		margin: { t: 30} 
